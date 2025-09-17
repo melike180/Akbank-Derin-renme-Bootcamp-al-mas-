@@ -1,4 +1,4 @@
-# Akbank-Derin-renme-Bootcamp-al-mas-
+# Akbank-Derin-Ogrenme-Calismasi
 # Proje Başlığı: Intel Image Classification - CNN Denemesi
 
 ## Projenin Amacı
